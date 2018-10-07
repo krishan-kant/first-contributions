@@ -6870,3 +6870,4 @@ Hassan Khalailla
 - [Kudakwashe Siziva](https://github.com/kaysiz)
 - [Pratik Singh Chauhan](https://github.com/pratiksinghchauhan)
 - [Christopher Shockley] (https://github.com/cishocksr)
+- [Krishan Kant] (https://github.com/krishan-kant)
